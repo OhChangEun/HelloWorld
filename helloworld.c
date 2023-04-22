@@ -2,9 +2,8 @@
 
 int main(int argc, char* argv[]){
 
-	printf("hello world\n");
-	printf("b1\n");
-	printf("b2\n");	
-	
+	printf("Merge Conflict상황 만들어보기\n");
+	printf("branch 1 작업 실행\n");
+
 	return 0;
 }
